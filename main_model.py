@@ -161,5 +161,5 @@ for epoch in range(0, num_epochs):
     print('Epoch [{}/{}], Loss_Epoch: {:.4f}, Accuracy_Epoch: {:.2f}%'.format(epoch + 1, num_epochs, epoch_loss, epoch_accuracy))
         
 print('Training process has finished. Saving trained model.')
-torch.save(network.state_dict(), "add a path for save the model\saved_augmented_modelgan.pth")
+torch.save(network.state_dict(), "add a path for save the model\saved_model.pth")
 
