@@ -2,7 +2,7 @@
 
 **Dataset**
 
-Breast Ultrasound Images (BUSI) containing 780 images in 3 different categories (210 malignant, 437 benign and 133 normal) is used in this project.https://scholar.cu.edu.eg/?q=afahmy/pages/dataset
+Breast Ultrasound Images (BUSI) containing 780 images in 3 different categories (210 malignant, 437 benign and 133 normal) is used in this project. https://scholar.cu.edu.eg/?q=afahmy/pages/dataset
 
 **Train and Test dataset**
 
