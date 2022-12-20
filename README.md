@@ -1,4 +1,4 @@
-**Convolutional-Neural-Network-Based-Models-For-Breast-Cancer-Classification**
+**Convolutional-Neural-Network-Based-Model-For-Breast-Cancer-Classification**
 
 **Dataset**
 
