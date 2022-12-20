@@ -10,7 +10,7 @@ There are two approaches for extending the unbalanced dataset to train the netwo
 
 **CNN network**
 
-I trained different types of CNNs and finally chose two best of them which provided the better accuracy for our datasets. For evaluating the performance of the networks I used stratified K-folds cross validation technique for evaluating them, thus I chose the better network between them. 
+I trained different types of CNNs and finally chose two best of them which provided the better accuracy for this dataset. For evaluating the performance of the networks I used stratified K-folds cross validation technique for evaluating them, thus I chose the better network between them. 
 
 **Stratified k-folds cross validation**
 
